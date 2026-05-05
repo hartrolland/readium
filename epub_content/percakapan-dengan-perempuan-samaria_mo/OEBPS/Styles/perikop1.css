@@ -1,0 +1,14 @@
+h1 span {
+  display: none;
+}
+
+/* emphasize the active element */
+.my-active-item {
+  background-color: yellow;
+  color: rgb(0, 0, 0) !important;
+}
+
+/* fade out the inactive text */
+html.my-document-playing * {
+  color: rgba(0, 0, 0, 0.5);
+}

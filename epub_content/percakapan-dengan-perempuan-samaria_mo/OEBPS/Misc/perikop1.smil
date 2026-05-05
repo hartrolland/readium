@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<smil version="3.0" xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops"><body><!-- perikop --><seq epub:textref="../Text/perikop1.xhtml#perikop1" epub:type="bodymatter" id="id1"><!-- judul perikop --><!-- <par epub:type="title" id="id2"><text src="../Text/perikop1.xhtml#judul_perikop1"/>
+<audio clipBegin="0:00:00.000" clipEnd="0:00:01.000" src="../Audio/04_YOHANES_4.mp3"/>
+</par> -->
+<!-- teks perikop --><!-- paragraf 1 --><par id="id3"><text src="../Text/perikop1.xhtml#txt1"/>
+<audio clipBegin="0:00:01.000" clipEnd="0:00:02.300" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id4"><text src="../Text/perikop1.xhtml#txt2"/>
+<audio clipBegin="0:00:02.300" clipEnd="0:00:05.000" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id5"><text src="../Text/perikop1.xhtml#txt3"/>
+<audio clipBegin="0:00:05.000" clipEnd="0:00:10.100" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id6"><text src="../Text/perikop1.xhtml#txt4"/>
+<audio clipBegin="0:00:10.100" clipEnd="0:00:12.400" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id7"><text src="../Text/perikop1.xhtml#txt5"/>
+<audio clipBegin="0:00:12.400" clipEnd="0:00:13.700" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id8"><text src="../Text/perikop1.xhtml#txt6"/>
+<audio clipBegin="0:00:13.700" clipEnd="0:00:18.700" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<!-- paragraf 2 --><par id="id9"><text src="../Text/perikop1.xhtml#txt7"/>
+<audio clipBegin="0:00:18.700" clipEnd="0:00:21.200" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id10"><text src="../Text/perikop1.xhtml#txt8"/>
+<audio clipBegin="0:00:21.200" clipEnd="0:00:24.400" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id11"><text src="../Text/perikop1.xhtml#txt9"/>
+<audio clipBegin="0:00:24.400" clipEnd="0:00:30.700" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id12"><text src="../Text/perikop1.xhtml#txt10"/>
+<audio clipBegin="0:00:30.700" clipEnd="0:00:31.200" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id13"><text src="../Text/perikop1.xhtml#txt11"/>
+<audio clipBegin="0:00:31.200" clipEnd="0:00:33.200" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id14"><text src="../Text/perikop1.xhtml#txt12"/>
+<audio clipBegin="0:00:33.200" clipEnd="0:00:35.900" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id15"><text src="../Text/perikop1.xhtml#txt13"/>
+<audio clipBegin="0:00:35.900" clipEnd="0:00:39.500" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id16"><text src="../Text/perikop1.xhtml#txt14"/>
+<audio clipBegin="0:00:39.500" clipEnd="0:00:41.600" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id17"><text src="../Text/perikop1.xhtml#txt15"/>
+<audio clipBegin="0:00:41.600" clipEnd="0:00:45.700" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id18"><text src="../Text/perikop1.xhtml#txt16"/>
+<audio clipBegin="0:00:45.700" clipEnd="0:00:47.900" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id19"><text src="../Text/perikop1.xhtml#txt17"/>
+<audio clipBegin="0:00:47.900" clipEnd="0:00:49.200" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id20"><text src="../Text/perikop1.xhtml#txt18"/>
+<audio clipBegin="0:00:49.200" clipEnd="0:00:53.800" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id21"><text src="../Text/perikop1.xhtml#txt19"/>
+<audio clipBegin="0:00:53.800" clipEnd="0:00:57.000" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id22"><text src="../Text/perikop1.xhtml#txt20"/>
+<audio clipBegin="0:00:57.000" clipEnd="0:00:58.100" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id23"><text src="../Text/perikop1.xhtml#txt21"/>
+<audio clipBegin="0:00:58.100" clipEnd="0:00:59.200" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id24"><text src="../Text/perikop1.xhtml#txt22"/>
+<audio clipBegin="0:00:59.200" clipEnd="0:01:00.400" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id25"><text src="../Text/perikop1.xhtml#txt23"/>
+<audio clipBegin="0:01:00.400" clipEnd="0:01:01.600" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id26"><text src="../Text/perikop1.xhtml#txt24"/>
+<audio clipBegin="0:01:01.600" clipEnd="0:01:05.700" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id27"><text src="../Text/perikop1.xhtml#txt25"/>
+<audio clipBegin="0:01:05.700" clipEnd="0:01:07.300" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id28"><text src="../Text/perikop1.xhtml#txt26"/>
+<audio clipBegin="0:01:07.300" clipEnd="0:01:12.900" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id29"><text src="../Text/perikop1.xhtml#txt27"/>
+<audio clipBegin="0:01:12.900" clipEnd="0:01:14.800" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id30"><text src="../Text/perikop1.xhtml#txt28"/>
+<audio clipBegin="0:01:14.800" clipEnd="0:01:21.900" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id31"><text src="../Text/perikop1.xhtml#txt29"/>
+<audio clipBegin="0:01:21.900" clipEnd="0:01:24.700" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id32"><text src="../Text/perikop1.xhtml#txt30"/>
+<audio clipBegin="0:01:24.700" clipEnd="0:01:25.300" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id33"><text src="../Text/perikop1.xhtml#txt31"/>
+<audio clipBegin="0:01:25.300" clipEnd="0:01:29.700" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id34"><text src="../Text/perikop1.xhtml#txt32"/>
+<audio clipBegin="0:01:29.700" clipEnd="0:01:33.000" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id35"><text src="../Text/perikop1.xhtml#txt33"/>
+<audio clipBegin="0:01:33.000" clipEnd="0:01:36.500" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id36"><text src="../Text/perikop1.xhtml#txt34"/>
+<audio clipBegin="0:01:36.500" clipEnd="0:01:42.200" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id37"><text src="../Text/perikop1.xhtml#txt35"/>
+<audio clipBegin="0:01:42.200" clipEnd="0:01:44.900" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id38"><text src="../Text/perikop1.xhtml#txt36"/>
+<audio clipBegin="0:01:44.900" clipEnd="0:01:46.400" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id39"><text src="../Text/perikop1.xhtml#txt37"/>
+<audio clipBegin="0:01:46.400" clipEnd="0:01:48.500" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id40"><text src="../Text/perikop1.xhtml#txt38"/>
+<audio clipBegin="0:01:48.500" clipEnd="0:01:50.300" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id41"><text src="../Text/perikop1.xhtml#txt39"/>
+<audio clipBegin="0:01:50.300" clipEnd="0:01:55.200" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id42"><text src="../Text/perikop1.xhtml#txt40"/>
+<audio clipBegin="0:01:55.200" clipEnd="0:01:59.000" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id43"><text src="../Text/perikop1.xhtml#txt41"/>
+<audio clipBegin="0:01:59.000" clipEnd="0:02:03.200" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id44"><text src="../Text/perikop1.xhtml#txt42"/>
+<audio clipBegin="0:02:03.200" clipEnd="0:02:07.000" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id45"><text src="../Text/perikop1.xhtml#txt43"/>
+<audio clipBegin="0:02:07.000" clipEnd="0:02:11.700" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id46"><text src="../Text/perikop1.xhtml#txt44"/>
+<audio clipBegin="0:02:11.700" clipEnd="0:02:14.400" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id47"><text src="../Text/perikop1.xhtml#txt45"/>
+<audio clipBegin="0:02:14.400" clipEnd="0:02:14.900" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id48"><text src="../Text/perikop1.xhtml#txt46"/>
+<audio clipBegin="0:02:14.900" clipEnd="0:02:16.900" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id49"><text src="../Text/perikop1.xhtml#txt47"/>
+<audio clipBegin="0:02:16.900" clipEnd="0:02:22.700" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id50"><text src="../Text/perikop1.xhtml#txt48"/>
+<audio clipBegin="0:02:22.700" clipEnd="0:02:24.300" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id51"><text src="../Text/perikop1.xhtml#txt49"/>
+<audio clipBegin="0:02:24.300" clipEnd="0:02:25.100" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id52"><text src="../Text/perikop1.xhtml#txt50"/>
+<audio clipBegin="0:02:25.100" clipEnd="0:02:28.600" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id53"><text src="../Text/perikop1.xhtml#txt51"/>
+<audio clipBegin="0:02:28.600" clipEnd="0:02:30.200" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id54"><text src="../Text/perikop1.xhtml#txt52"/>
+<audio clipBegin="0:02:30.200" clipEnd="0:02:32.200" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id55"><text src="../Text/perikop1.xhtml#txt53"/>
+<audio clipBegin="0:02:32.200" clipEnd="0:02:34.100" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id56"><text src="../Text/perikop1.xhtml#txt54"/>
+<audio clipBegin="0:02:34.100" clipEnd="0:02:35.100" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id57"><text src="../Text/perikop1.xhtml#txt55"/>
+<audio clipBegin="0:02:35.100" clipEnd="0:02:38.000" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id58"><text src="../Text/perikop1.xhtml#txt56"/>
+<audio clipBegin="0:02:38.000" clipEnd="0:02:43.000" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id59"><text src="../Text/perikop1.xhtml#txt57"/>
+<audio clipBegin="0:02:43.000" clipEnd="0:02:44.300" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id60"><text src="../Text/perikop1.xhtml#txt58"/>
+<audio clipBegin="0:02:44.300" clipEnd="0:02:46.900" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id61"><text src="../Text/perikop1.xhtml#txt59"/>
+<audio clipBegin="0:02:46.900" clipEnd="0:02:50.300" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id62"><text src="../Text/perikop1.xhtml#txt60"/>
+<audio clipBegin="0:02:50.300" clipEnd="0:02:51.000" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id63"><text src="../Text/perikop1.xhtml#txt61"/>
+<audio clipBegin="0:02:51.000" clipEnd="0:02:53.600" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id64"><text src="../Text/perikop1.xhtml#txt62"/>
+<audio clipBegin="0:02:53.600" clipEnd="0:02:56.000" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id65"><text src="../Text/perikop1.xhtml#txt63"/>
+<audio clipBegin="0:02:56.000" clipEnd="0:03:00.300" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id66"><text src="../Text/perikop1.xhtml#txt64"/>
+<audio clipBegin="0:03:00.300" clipEnd="0:03:02.100" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id67"><text src="../Text/perikop1.xhtml#txt65"/>
+<audio clipBegin="0:03:02.100" clipEnd="0:03:05.000" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id68"><text src="../Text/perikop1.xhtml#txt66"/>
+<audio clipBegin="0:03:05.000" clipEnd="0:03:06.600" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id69"><text src="../Text/perikop1.xhtml#txt67"/>
+<audio clipBegin="0:03:06.600" clipEnd="0:03:08.500" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id70"><text src="../Text/perikop1.xhtml#txt68"/>
+<audio clipBegin="0:03:08.500" clipEnd="0:03:09.900" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id71"><text src="../Text/perikop1.xhtml#txt69"/>
+<audio clipBegin="0:03:09.900" clipEnd="0:03:11.700" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id72"><text src="../Text/perikop1.xhtml#txt70"/>
+<audio clipBegin="0:03:11.700" clipEnd="0:03:17.500" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id73"><text src="../Text/perikop1.xhtml#txt71"/>
+<audio clipBegin="0:03:17.500" clipEnd="0:03:21.200" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id74"><text src="../Text/perikop1.xhtml#txt72"/>
+<audio clipBegin="0:03:21.200" clipEnd="0:03:24.300" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id75"><text src="../Text/perikop1.xhtml#txt73"/>
+<audio clipBegin="0:03:24.300" clipEnd="0:03:28.500" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id76"><text src="../Text/perikop1.xhtml#txt74"/>
+<audio clipBegin="0:03:28.500" clipEnd="0:03:32.700" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id77"><text src="../Text/perikop1.xhtml#txt75"/>
+<audio clipBegin="0:03:32.700" clipEnd="0:03:38.500" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id78"><text src="../Text/perikop1.xhtml#txt76"/>
+<audio clipBegin="0:03:38.500" clipEnd="0:03:42.900" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id79"><text src="../Text/perikop1.xhtml#txt77"/>
+<audio clipBegin="0:03:42.900" clipEnd="0:03:46.600" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id80"><text src="../Text/perikop1.xhtml#txt78"/>
+<audio clipBegin="0:03:46.600" clipEnd="0:03:50.500" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id81"><text src="../Text/perikop1.xhtml#txt79"/>
+<audio clipBegin="0:03:50.500" clipEnd="0:03:53.400" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id82"><text src="../Text/perikop1.xhtml#txt80"/>
+<audio clipBegin="0:03:53.400" clipEnd="0:03:54.300" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id83"><text src="../Text/perikop1.xhtml#txt81"/>
+<audio clipBegin="0:03:54.300" clipEnd="0:03:56.800" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id84"><text src="../Text/perikop1.xhtml#txt82"/>
+<audio clipBegin="0:03:56.800" clipEnd="0:03:59.400" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id85"><text src="../Text/perikop1.xhtml#txt83"/>
+<audio clipBegin="0:03:59.400" clipEnd="0:04:00.400" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id86"><text src="../Text/perikop1.xhtml#txt84"/>
+<audio clipBegin="0:04:00.400" clipEnd="0:04:04.200" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id87"><text src="../Text/perikop1.xhtml#txt85"/>
+<audio clipBegin="0:04:04.200" clipEnd="0:04:06.100" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id88"><text src="../Text/perikop1.xhtml#txt86"/>
+<audio clipBegin="0:04:06.100" clipEnd="0:04:07.200" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id89"><text src="../Text/perikop1.xhtml#txt87"/>
+<audio clipBegin="0:04:07.200" clipEnd="0:04:11.100" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<!-- paragraf 3 --><par id="id90"><text src="../Text/perikop1.xhtml#txt88"/>
+<audio clipBegin="0:04:11.100" clipEnd="0:04:14.700" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id91"><text src="../Text/perikop1.xhtml#txt89"/>
+<audio clipBegin="0:04:14.700" clipEnd="0:04:18.600" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id92"><text src="../Text/perikop1.xhtml#txt90"/>
+<audio clipBegin="0:04:18.600" clipEnd="0:04:21.000" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id93"><text src="../Text/perikop1.xhtml#txt91"/>
+<audio clipBegin="0:04:21.000" clipEnd="0:04:22.600" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id94"><text src="../Text/perikop1.xhtml#txt92"/>
+<audio clipBegin="0:04:22.600" clipEnd="0:04:22.900" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id95"><text src="../Text/perikop1.xhtml#txt93"/>
+<audio clipBegin="0:04:22.900" clipEnd="0:04:25.400" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id96"><text src="../Text/perikop1.xhtml#txt94"/>
+<audio clipBegin="0:04:25.400" clipEnd="0:04:34.100" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id97"><text src="../Text/perikop1.xhtml#txt95"/>
+<audio clipBegin="0:04:34.100" clipEnd="0:04:34.500" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id98"><text src="../Text/perikop1.xhtml#txt96"/>
+<audio clipBegin="0:04:34.500" clipEnd="0:04:34.900" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id99"><text src="../Text/perikop1.xhtml#txt97"/>
+<audio clipBegin="0:04:34.900" clipEnd="0:04:40.100" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id100"><text src="../Text/perikop1.xhtml#txt98"/>
+<audio clipBegin="0:04:40.100" clipEnd="0:04:41.800" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id101"><text src="../Text/perikop1.xhtml#txt99"/>
+<audio clipBegin="0:04:41.800" clipEnd="0:04:46.800" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<!-- paragraf 4 --><par id="id102"><text src="../Text/perikop1.xhtml#txt100"/>
+<audio clipBegin="0:04:46.800" clipEnd="0:04:49.400" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id103"><text src="../Text/perikop1.xhtml#txt101"/>
+<audio clipBegin="0:04:49.400" clipEnd="0:04:50.100" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id104"><text src="../Text/perikop1.xhtml#txt102"/>
+<audio clipBegin="0:04:50.100" clipEnd="0:04:50.500" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id105"><text src="../Text/perikop1.xhtml#txt103"/>
+<audio clipBegin="0:04:50.500" clipEnd="0:04:51.500" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id106"><text src="../Text/perikop1.xhtml#txt104"/>
+<audio clipBegin="0:04:51.500" clipEnd="0:04:55.700" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id107"><text src="../Text/perikop1.xhtml#txt105"/>
+<audio clipBegin="0:04:55.700" clipEnd="0:04:58.900" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id108"><text src="../Text/perikop1.xhtml#txt106"/>
+<audio clipBegin="0:04:58.900" clipEnd="0:05:02.400" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id109"><text src="../Text/perikop1.xhtml#txt107"/>
+<audio clipBegin="0:05:02.400" clipEnd="0:05:06.400" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id110"><text src="../Text/perikop1.xhtml#txt108"/>
+<audio clipBegin="0:05:06.400" clipEnd="0:05:08.100" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id111"><text src="../Text/perikop1.xhtml#txt109"/>
+<audio clipBegin="0:05:08.100" clipEnd="0:05:13.700" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id112"><text src="../Text/perikop1.xhtml#txt110"/>
+<audio clipBegin="0:05:13.700" clipEnd="0:05:15.900" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id113"><text src="../Text/perikop1.xhtml#txt111"/>
+<audio clipBegin="0:05:15.900" clipEnd="0:05:18.900" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id114"><text src="../Text/perikop1.xhtml#txt112"/>
+<audio clipBegin="0:05:18.900" clipEnd="0:05:21.100" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id115"><text src="../Text/perikop1.xhtml#txt113"/>
+<audio clipBegin="0:05:21.100" clipEnd="0:05:28.900" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id116"><text src="../Text/perikop1.xhtml#txt114"/>
+<audio clipBegin="0:05:28.900" clipEnd="0:05:35.500" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id117"><text src="../Text/perikop1.xhtml#txt115"/>
+<audio clipBegin="0:05:35.500" clipEnd="0:05:40.200" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id118"><text src="../Text/perikop1.xhtml#txt116"/>
+<audio clipBegin="0:05:40.200" clipEnd="0:05:43.900" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id119"><text src="../Text/perikop1.xhtml#txt117"/>
+<audio clipBegin="0:05:43.900" clipEnd="0:05:47.900" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id120"><text src="../Text/perikop1.xhtml#txt118"/>
+<audio clipBegin="0:05:47.900" clipEnd="0:05:52.900" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id121"><text src="../Text/perikop1.xhtml#txt119"/>
+<audio clipBegin="0:05:52.900" clipEnd="0:05:59.300" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<!-- paragraf 5 --><par id="id122"><text src="../Text/perikop1.xhtml#txt120"/>
+<audio clipBegin="0:05:59.300" clipEnd="0:06:06.700" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id123"><text src="../Text/perikop1.xhtml#txt121"/>
+<audio clipBegin="0:06:06.700" clipEnd="0:06:07.500" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id124"><text src="../Text/perikop1.xhtml#txt122"/>
+<audio clipBegin="0:06:07.500" clipEnd="0:06:11.000" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id125"><text src="../Text/perikop1.xhtml#txt123"/>
+<audio clipBegin="0:06:11.000" clipEnd="0:06:14.100" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id126"><text src="../Text/perikop1.xhtml#txt124"/>
+<audio clipBegin="0:06:14.100" clipEnd="0:06:16.200" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id127"><text src="../Text/perikop1.xhtml#txt125"/>
+<audio clipBegin="0:06:16.200" clipEnd="0:06:18.500" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id128"><text src="../Text/perikop1.xhtml#txt126"/>
+<audio clipBegin="0:06:18.500" clipEnd="0:06:22.600" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id129"><text src="../Text/perikop1.xhtml#txt127"/>
+<audio clipBegin="0:06:22.600" clipEnd="0:06:27.200" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id130"><text src="../Text/perikop1.xhtml#txt128"/>
+<audio clipBegin="0:06:27.200" clipEnd="0:06:30.900" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id131"><text src="../Text/perikop1.xhtml#txt129"/>
+<audio clipBegin="0:06:30.900" clipEnd="0:06:32.100" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id132"><text src="../Text/perikop1.xhtml#txt130"/>
+<audio clipBegin="0:06:32.100" clipEnd="0:06:35.400" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id133"><text src="../Text/perikop1.xhtml#txt131"/>
+<audio clipBegin="0:06:35.400" clipEnd="0:06:39.100" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+<par id="id134"><text src="../Text/perikop1.xhtml#txt132"/>
+<audio clipBegin="0:06:39.100" clipEnd="0:06:42.800" src="../Audio/04_YOHANES_4.mp3"/>
+</par>
+</seq>
+</body>
+</smil>
