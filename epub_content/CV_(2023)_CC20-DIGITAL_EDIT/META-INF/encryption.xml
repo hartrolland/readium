@@ -1,0 +1,50 @@
+<encryption xmlns="urn:oasis:names:tc:opendocument:xmlns:container" xmlns:enc="http://www.w3.org/2001/04/xmlenc#">
+	<enc:EncryptedData>
+		<enc:EncryptionMethod Algorithm="http://www.idpf.org/2008/embedding" />
+		<enc:CipherData>
+			<enc:CipherReference URI="OEBPS/font/SourceSansPro-Bold.otf" />
+		</enc:CipherData>
+	</enc:EncryptedData>
+	<enc:EncryptedData>
+		<enc:EncryptionMethod Algorithm="http://www.idpf.org/2008/embedding" />
+		<enc:CipherData>
+			<enc:CipherReference URI="OEBPS/font/SourceSansPro-Light.otf" />
+		</enc:CipherData>
+	</enc:EncryptedData>
+	<enc:EncryptedData>
+		<enc:EncryptionMethod Algorithm="http://www.idpf.org/2008/embedding" />
+		<enc:CipherData>
+			<enc:CipherReference URI="OEBPS/font/SourceSansPro-Regular.otf" />
+		</enc:CipherData>
+	</enc:EncryptedData>
+	<enc:EncryptedData>
+		<enc:EncryptionMethod Algorithm="http://www.idpf.org/2008/embedding" />
+		<enc:CipherData>
+			<enc:CipherReference URI="OEBPS/font/SourceSerifPro-Bold.otf" />
+		</enc:CipherData>
+	</enc:EncryptedData>
+	<enc:EncryptedData>
+		<enc:EncryptionMethod Algorithm="http://www.idpf.org/2008/embedding" />
+		<enc:CipherData>
+			<enc:CipherReference URI="OEBPS/font/SourceSerifPro-It.otf" />
+		</enc:CipherData>
+	</enc:EncryptedData>
+	<enc:EncryptedData>
+		<enc:EncryptionMethod Algorithm="http://www.idpf.org/2008/embedding" />
+		<enc:CipherData>
+			<enc:CipherReference URI="OEBPS/font/SourceSerifPro-Light.otf" />
+		</enc:CipherData>
+	</enc:EncryptedData>
+	<enc:EncryptedData>
+		<enc:EncryptionMethod Algorithm="http://www.idpf.org/2008/embedding" />
+		<enc:CipherData>
+			<enc:CipherReference URI="OEBPS/font/SourceSerifPro-LightIt.otf" />
+		</enc:CipherData>
+	</enc:EncryptedData>
+	<enc:EncryptedData>
+		<enc:EncryptionMethod Algorithm="http://www.idpf.org/2008/embedding" />
+		<enc:CipherData>
+			<enc:CipherReference URI="OEBPS/font/SourceSerifPro-Regular.otf" />
+		</enc:CipherData>
+	</enc:EncryptedData>
+</encryption>
