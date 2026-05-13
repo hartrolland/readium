@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<smil version="3.0" xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops">
+<body>
+  <seq epub:textref="../Text/healing-scriptures_pl.xhtml#PL" epub:type="bodymatter">
+    <par>
+      <text src="../Text/healing-scriptures_pl.xhtml#f1"/>
+      <audio clipBegin="00:00:06.060" clipEnd="00:00:09.260" src="../Audio/healing-scriptures.mp3"/>
+    </par>
+
+    <par>
+      <text src="../Text/healing-scriptures_pl.xhtml#f2"/>
+      <audio clipBegin="00:00:09.260" clipEnd="00:00:10.700" src="../Audio/healing-scriptures.mp3"/>
+    </par>
+
+    <par>
+      <text src="../Text/healing-scriptures_pl.xhtml#f3"/>
+      <audio clipBegin="00:00:10.700" clipEnd="00:00:11.160" src="../Audio/healing-scriptures.mp3"/>
+    </par>
+
+    <par>
+      <text src="../Text/healing-scriptures_pl.xhtml#f4"/>
+      <audio clipBegin="00:00:11.160" clipEnd="00:00:12.600" src="../Audio/healing-scriptures.mp3"/>
+    </par>
+
+    <par>
+      <text src="../Text/healing-scriptures_pl.xhtml#f5"/>
+      <audio clipBegin="00:00:12.600" clipEnd="00:00:14.520" src="../Audio/healing-scriptures.mp3"/>
+    </par>
+
+    <par>
+      <text src="../Text/healing-scriptures_pl.xhtml#f6"/>
+      <audio clipBegin="00:00:14.520" clipEnd="00:00:18.980" src="../Audio/healing-scriptures.mp3"/>
+    </par>
+
+    <par>
+      <text src="../Text/healing-scriptures_pl.xhtml#f7"/>
+      <audio clipBegin="00:00:18.980" clipEnd="00:00:20.200" src="../Audio/healing-scriptures.mp3"/>
+    </par>
+
+    <par>
+      <text src="../Text/healing-scriptures_pl.xhtml#f8"/>
+      <audio clipBegin="00:00:20.200" clipEnd="00:00:24.220" src="../Audio/healing-scriptures.mp3"/>
+    </par>
+
+    <par>
+      <text src="../Text/healing-scriptures_pl.xhtml#f9"/>
+      <audio clipBegin="00:00:24.220" clipEnd="00:00:28.200" src="../Audio/healing-scriptures.mp3"/>
+    </par>
+
+    <par>
+      <text src="../Text/healing-scriptures_pl.xhtml#f10"/>
+      <audio clipBegin="00:00:28.200" clipEnd="00:00:30.620" src="../Audio/healing-scriptures.mp3"/>
+    </par>
+
+    <par>
+      <text src="../Text/healing-scriptures_pl.xhtml#f11"/>
+      <audio clipBegin="00:00:30.620" clipEnd="00:00:32.680" src="../Audio/healing-scriptures.mp3"/>
+    </par>
+
+    <par>
+      <text src="../Text/healing-scriptures_pl.xhtml#f12"/>
+      <audio clipBegin="00:00:32.680" clipEnd="00:00:38.560" src="../Audio/healing-scriptures.mp3"/>
+    </par>
+
+    <par>
+      <text src="../Text/healing-scriptures_pl.xhtml#f13"/>
+      <audio clipBegin="00:00:38.560" clipEnd="00:00:41.200" src="../Audio/healing-scriptures.mp3"/>
+    </par>
+
+    <par>
+      <text src="../Text/healing-scriptures_pl.xhtml#f14"/>
+      <audio clipBegin="00:00:41.200" clipEnd="00:00:42.700" src="../Audio/healing-scriptures.mp3"/>
+    </par>
+
+    <par>
+      <text src="../Text/healing-scriptures_pl.xhtml#f15"/>
+      <audio clipBegin="00:00:42.700" clipEnd="00:00:44.400" src="../Audio/healing-scriptures.mp3"/>
+    </par>
+
+    <par>
+      <text src="../Text/healing-scriptures_pl.xhtml#f16"/>
+      <audio clipBegin="00:00:44.400" clipEnd="00:00:47.120" src="../Audio/healing-scriptures.mp3"/>
+    </par>
+
+    <par>
+      <text src="../Text/healing-scriptures_pl.xhtml#f17"/>
+      <audio clipBegin="00:00:47.120" clipEnd="00:00:49.660" src="../Audio/healing-scriptures.mp3"/>
+    </par>
+
+    <par>
+      <text src="../Text/healing-scriptures_pl.xhtml#f18"/>
+      <audio clipBegin="00:00:49.660" clipEnd="00:00:52.100" src="../Audio/healing-scriptures.mp3"/>
+    </par>
+
+    <par>
+      <text src="../Text/healing-scriptures_pl.xhtml#f19"/>
+      <audio clipBegin="00:00:52.100" clipEnd="00:00:57.080" src="../Audio/healing-scriptures.mp3"/>
+    </par>
+
+    <par>
+      <text src="../Text/healing-scriptures_pl.xhtml#f20"/>
+      <audio clipBegin="00:00:57.080" clipEnd="00:00:59.720" src="../Audio/healing-scriptures.mp3"/>
+    </par>
+
+    <par>
+      <text src="../Text/healing-scriptures_pl.xhtml#f21"/>
+      <audio clipBegin="00:00:59.720" clipEnd="00:01:04.739" src="../Audio/healing-scriptures.mp3"/>
+    </par>
+
+    <par>
+      <text src="../Text/healing-scriptures_pl.xhtml#f22"/>
+      <audio clipBegin="00:01:04.739" clipEnd="00:01:09.760" src="../Audio/healing-scriptures.mp3"/>
+    </par>
+
+    <par>
+      <text src="../Text/healing-scriptures_pl.xhtml#f23"/>
+      <audio clipBegin="00:01:09.760" clipEnd="00:01:12.660" src="../Audio/healing-scriptures.mp3"/>
+    </par>
+
+    <par>
+      <text src="../Text/healing-scriptures_pl.xhtml#f24"/>
+      <audio clipBegin="00:01:12.660" clipEnd="00:01:14.380" src="../Audio/healing-scriptures.mp3"/>
+    </par>
+
+    <par>
+      <text src="../Text/healing-scriptures_pl.xhtml#f25"/>
+      <audio clipBegin="00:01:14.380" clipEnd="00:01:16.680" src="../Audio/healing-scriptures.mp3"/>
+    </par>
+
+    <par>
+      <text src="../Text/healing-scriptures_pl.xhtml#f26"/>
+      <audio clipBegin="00:01:16.680" clipEnd="00:01:20.280" src="../Audio/healing-scriptures.mp3"/>
+    </par>
+
+    <par>
+      <text src="../Text/healing-scriptures_pl.xhtml#f27"/>
+      <audio clipBegin="00:01:20.280" clipEnd="00:01:23.760" src="../Audio/healing-scriptures.mp3"/>
+    </par>
+
+    <par>
+      <text src="../Text/healing-scriptures_pl.xhtml#f28"/>
+      <audio clipBegin="00:01:23.760" clipEnd="00:01:24.680" src="../Audio/healing-scriptures.mp3"/>
+    </par>
+
+    <par>
+      <text src="../Text/healing-scriptures_pl.xhtml#f29"/>
+      <audio clipBegin="00:01:24.680" clipEnd="00:01:26.900" src="../Audio/healing-scriptures.mp3"/>
+    </par>
+
+    <par>
+      <text src="../Text/healing-scriptures_pl.xhtml#f30"/>
+      <audio clipBegin="00:01:26.900" clipEnd="00:01:31.960" src="../Audio/healing-scriptures.mp3"/>
+    </par>
+
+    <par>
+      <text src="../Text/healing-scriptures_pl.xhtml#f31"/>
+      <audio clipBegin="00:01:31.960" clipEnd="00:01:35.660" src="../Audio/healing-scriptures.mp3"/>
+    </par>
+
+    <par>
+      <text src="../Text/healing-scriptures_pl.xhtml#f32"/>
+      <audio clipBegin="00:01:35.660" clipEnd="00:01:39.500" src="../Audio/healing-scriptures.mp3"/>
+    </par>
+
+    <par>
+      <text src="../Text/healing-scriptures_pl.xhtml#f33"/>
+      <audio clipBegin="00:01:39.500" clipEnd="00:01:42.720" src="../Audio/healing-scriptures.mp3"/>
+    </par>
+
+    <par>
+      <text src="../Text/healing-scriptures_pl.xhtml#f34"/>
+      <audio clipBegin="00:01:42.720" clipEnd="00:01:46.100" src="../Audio/healing-scriptures.mp3"/>
+    </par>
+
+    <par>
+      <text src="../Text/healing-scriptures_pl.xhtml#f35"/>
+      <audio clipBegin="00:01:46.100" clipEnd="00:01:50.840" src="../Audio/healing-scriptures.mp3"/>
+    </par>
+
+    <par>
+      <text src="../Text/healing-scriptures_pl.xhtml#f36"/>
+      <audio clipBegin="00:01:50.840" clipEnd="00:01:51.840" src="../Audio/healing-scriptures.mp3"/>
+    </par>
+
+    <par>
+      <text src="../Text/healing-scriptures_pl.xhtml#f37"/>
+      <audio clipBegin="00:01:51.840" clipEnd="00:01:55.420" src="../Audio/healing-scriptures.mp3"/>
+    </par>
+
+    <par>
+      <text src="../Text/healing-scriptures_pl.xhtml#f38"/>
+      <audio clipBegin="00:01:55.420" clipEnd="00:01:58.300" src="../Audio/healing-scriptures.mp3"/>
+    </par>
+
+    <par>
+      <text src="../Text/healing-scriptures_pl.xhtml#f39"/>
+      <audio clipBegin="00:01:58.300" clipEnd="00:01:59.980" src="../Audio/healing-scriptures.mp3"/>
+    </par>
+
+    <par>
+      <text src="../Text/healing-scriptures_pl.xhtml#f40"/>
+      <audio clipBegin="00:01:59.980" clipEnd="00:02:02.280" src="../Audio/healing-scriptures.mp3"/>
+    </par>
+
+    <par>
+      <text src="../Text/healing-scriptures_pl.xhtml#f41"/>
+      <audio clipBegin="00:02:02.280" clipEnd="00:02:06.780" src="../Audio/healing-scriptures.mp3"/>
+    </par>
+
+    <par>
+      <text src="../Text/healing-scriptures_pl.xhtml#f42"/>
+      <audio clipBegin="00:02:06.780" clipEnd="00:02:09.340" src="../Audio/healing-scriptures.mp3"/>
+    </par>
+
+    <par>
+      <text src="../Text/healing-scriptures_pl.xhtml#f43"/>
+      <audio clipBegin="00:02:09.340" clipEnd="00:02:10.240" src="../Audio/healing-scriptures.mp3"/>
+    </par>
+
+    <par>
+      <text src="../Text/healing-scriptures_pl.xhtml#f44"/>
+      <audio clipBegin="00:02:10.240" clipEnd="00:02:12.400" src="../Audio/healing-scriptures.mp3"/>
+    </par>
+
+    <par>
+      <text src="../Text/healing-scriptures_pl.xhtml#f45"/>
+      <audio clipBegin="00:02:12.400" clipEnd="00:02:17.360" src="../Audio/healing-scriptures.mp3"/>
+    </par>
+
+    <par>
+      <text src="../Text/healing-scriptures_pl.xhtml#f46"/>
+      <audio clipBegin="00:02:17.360" clipEnd="00:02:21.320" src="../Audio/healing-scriptures.mp3"/>
+    </par>
+
+    <par>
+      <text src="../Text/healing-scriptures_pl.xhtml#f47"/>
+      <audio clipBegin="00:02:21.320" clipEnd="00:02:25.260" src="../Audio/healing-scriptures.mp3"/>
+    </par>
+
+    <par>
+      <text src="../Text/healing-scriptures_pl.xhtml#f48"/>
+      <audio clipBegin="00:02:25.260" clipEnd="00:02:28.540" src="../Audio/healing-scriptures.mp3"/>
+    </par>
+
+    <par>
+      <text src="../Text/healing-scriptures_pl.xhtml#f49"/>
+      <audio clipBegin="00:02:28.540" clipEnd="00:02:32.880" src="../Audio/healing-scriptures.mp3"/>
+    </par>
+
+    <par>
+      <text src="../Text/healing-scriptures_pl.xhtml#f50"/>
+      <audio clipBegin="00:02:32.880" clipEnd="00:02:36.520" src="../Audio/healing-scriptures.mp3"/>
+    </par>
+
+    <par>
+      <text src="../Text/healing-scriptures_pl.xhtml#f51"/>
+      <audio clipBegin="00:02:36.520" clipEnd="00:02:37.600" src="../Audio/healing-scriptures.mp3"/>
+    </par>
+
+    <par>
+      <text src="../Text/healing-scriptures_pl.xhtml#f52"/>
+      <audio clipBegin="00:02:37.600" clipEnd="00:02:40.780" src="../Audio/healing-scriptures.mp3"/>
+    </par>
+
+    <par>
+      <text src="../Text/healing-scriptures_pl.xhtml#f53"/>
+      <audio clipBegin="00:02:40.780" clipEnd="00:02:43.860" src="../Audio/healing-scriptures.mp3"/>
+    </par>
+
+    <par>
+      <text src="../Text/healing-scriptures_pl.xhtml#f54"/>
+      <audio clipBegin="00:02:43.860" clipEnd="00:02:47.280" src="../Audio/healing-scriptures.mp3"/>
+    </par>
+
+    <par>
+      <text src="../Text/healing-scriptures_pl.xhtml#f55"/>
+      <audio clipBegin="00:02:47.280" clipEnd="00:02:51.420" src="../Audio/healing-scriptures.mp3"/>
+    </par>
+
+    <par>
+      <text src="../Text/healing-scriptures_pl.xhtml#f56"/>
+      <audio clipBegin="00:02:51.420" clipEnd="00:02:57.320" src="../Audio/healing-scriptures.mp3"/>
+    </par>
+
+    <par>
+      <text src="../Text/healing-scriptures_pl.xhtml#f57"/>
+      <audio clipBegin="00:02:57.320" clipEnd="00:02:58.520" src="../Audio/healing-scriptures.mp3"/>
+    </par>
+
+    <par>
+      <text src="../Text/healing-scriptures_pl.xhtml#f58"/>
+      <audio clipBegin="00:02:58.520" clipEnd="00:03:03.960" src="../Audio/healing-scriptures.mp3"/>
+    </par>
+
+  </seq>
+</body>
+</smil>
