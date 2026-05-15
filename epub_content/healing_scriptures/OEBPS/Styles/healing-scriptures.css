@@ -1,0 +1,45 @@
+/* emphasize the active element */
+.my-active-item {
+  background-color: yellow;
+  color: rgb(0, 0, 0) !important;
+}
+
+/* fade out the inactive text */
+html.my-document-playing * {
+  color: rgba(0, 0, 0, 0.5);
+}
+
+
+
+
+.hide0, .hide1, .hide2, .hide3, .hide4, .hide5 {
+  display: none;
+}
+
+.dots0, .dots1, .dots2, .dots3, .dots4, .dots5 {
+  display: inline;
+}
+
+.text0, .text1, .text2, .text3, .text4, .text5 {
+  font-weight: normal;
+}
+
+.button0, .button1, .button2, .button3, .button4, .button5 {
+  font-weight: lighter;
+  font-variant: small-caps;
+}
+
+p {
+  line-height: 1.5;
+  font-size: 15px;
+}
+
+sup {
+  line-height: normal;
+  font-weight: lighter;
+  font-size: 75%;
+}
+
+small {
+  font-weight: bold;
+}
