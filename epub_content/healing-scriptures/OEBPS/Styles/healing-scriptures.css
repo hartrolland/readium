@@ -1,0 +1,167 @@
+/* emphasize the active element */
+.my-active-item {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: normal;
+  background-color: rgb(51, 51, 51);
+  color: rgb(255, 255, 255) !important;
+}
+
+/* fade out the inactive text */
+html.my-document-playing * {
+  visibility: visible;
+  color: rgba(51, 51, 51, 0.5);
+}
+
+
+.tengah {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  height: 100vh;
+}
+
+.hide0, .hide1, .hide2, .hide3, .hide4, .hide5, .hide6 {
+  display: none;
+}
+
+.dots0, .dots1, .dots2, .dots3, .dots4, .dots5, .dots6 {
+  display: inline;
+}
+
+.text0, .text1, .text2, .text3, .text4, .text5, .text6 {
+  font-weight: normal;
+}
+
+.add6 {
+  font-style: normal;
+}
+
+.button0, .button1, .button2, .button3, .button4, .button5, .button6 {
+  font-weight: lighter;
+  font-variant: small-caps;
+}
+
+p {
+  line-height: 1.5;
+  font-size: clamp(8px, 5vw, 15px);
+  font-family: "Times New Roman", Times, serif;
+  break-inside: avoid;
+}
+
+sup {
+  line-height: normal;
+  font-weight: lighter;
+  font-size: 75%;
+}
+
+a:link, a:visited {
+  background-color: rgb(230, 230, 230);
+  color: rgba(51, 51, 51, 1);
+  padding: 0em 0.2em;
+  text-align: center;
+  text-decoration: none;
+  border-bottom: 0.2em solid rgb(140, 140, 140);
+  display: inline;
+}
+
+a:hover, a:active {
+  background-color: rgb(51, 51, 51);
+  color: rgb(255, 255, 255);
+}
+
+small {
+  line-height: 3.0;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.nempel {
+  break-before: avoid;
+}
+
+
+
+
+.waveform {
+  visibility: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  --size: 4px;
+
+  /* height: 20px; */
+  height: calc(var(--size) * 5);
+
+  /* gap: 2px; */
+  gap: calc(var(--size) / 2);
+}
+
+.bar {
+  /* height: 4px; */
+  height: var(--size);
+
+  /* width: 4px; */
+  width: var(--size);
+
+  /* border-radius: 4px; */
+  border-radius: var(--size);
+
+  background-color: rgb(51, 51, 51);
+  animation: wave 2s infinite ease-in-out;
+}
+
+@keyframes wave {
+  /* 0%, 100% {
+    height: 4px;
+    background-color: rgb(51, 51, 51);
+  } */
+
+  25% {
+    /* height: 20px; */
+    height: calc(var(--size) * 5);
+
+    background-color: rgb(140, 140, 140);
+  }
+
+  50% {
+    /* height: 4px; */
+    height: var(--size);
+
+    background-color: rgb(230, 230, 230);
+  }
+
+  /* 100% {
+    height: 4px;
+    background-color: rgb(51, 51, 51);
+  } */
+}
+
+/* .waveform :nth-child(1) {
+  animation-delay: 0s;
+} */
+
+.waveform :nth-child(2) {
+  animation-delay: 0.25s;
+}
+
+.waveform :nth-child(3) {
+  animation-delay: 0.5s;
+}
+
+.waveform :nth-child(4) {
+  animation-delay: 0.75s;
+}
+
+.waveform :nth-child(5) {
+  animation-delay: 1s;
+}
+
+
+
+
+hr {
+  border-top: 2px ridge rgba(230, 230, 230, 0.5);
+  width: 20%;
+}
