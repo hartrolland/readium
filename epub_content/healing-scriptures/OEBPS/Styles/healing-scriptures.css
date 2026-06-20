@@ -1,0 +1,229 @@
+/* emphasize the active element */
+.my-active-item {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: normal;
+  background-color: rgb(51, 51, 51);
+  color: rgb(255, 255, 255) !important;
+}
+
+/* fade out the inactive text */
+html.my-document-playing * {
+  visibility: visible;
+  color: rgba(51, 51, 51, 0.5);
+  text-shadow: 0 0 rgba(51, 51, 51, 0);
+}
+
+
+.wrapper {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+}
+
+.tengah {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  height: 100vh;
+  z-index: 1;
+}
+
+hr {
+  border-top: 0.2em solid rgb(140, 140, 140);
+  border-radius: 0.2em;
+}
+
+.progressline {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  --size: calc(100% / 55);
+  z-index: 2;
+}
+
+
+p {
+  line-height: 1.5;
+  font-size: clamp(8px, 5vw, 15px);
+  font-family: "Times New Roman", Times, serif;
+  break-inside: avoid;
+}
+
+sup {
+  line-height: normal;
+  font-weight: lighter;
+  font-size: 75%;
+}
+
+.toggleContent {
+  display: none;
+}
+
+.toggleContent:checked ~ .ayat .hide {
+  display: inline;
+}
+
+.toggleContent:checked ~ .ayat .dots {
+  display: none;
+}
+
+.toggleContent:checked ~ .ayat .text {
+  font-weight: bold;
+}
+
+.toggleContent:checked ~ .ayat .add {
+  font-style: italic;
+}
+
+.ayat {
+  padding: 0 0.75em 0 0.75em;
+  display: inline-block;
+}
+
+.ayat:hover {
+  padding: 0 0 0 calc(0.75em - 0.25em);
+  border-left: 0.25em solid rgb(140, 140, 140);
+}
+
+.hide {
+  display: none;
+}
+
+.dots {
+  display: inline;
+}
+
+.text {
+  font-weight: normal;
+}
+
+.add {
+  font-style: normal;
+}
+
+label {
+  background-color: rgb(230, 230, 230);
+  color: rgba(51, 51, 51, 1);
+  padding: 0em 0.2em;
+  text-align: center;
+  text-decoration: none;
+  border-bottom: 0.2em solid rgb(140, 140, 140);
+  cursor: pointer;
+}
+
+label.button1 {
+  display: inline;
+}
+
+label.button2 {
+  display: none;
+}
+
+.button1, .button2 {
+  font-weight: lighter;
+  font-variant: small-caps;
+}
+
+label:hover {
+  background-color: rgb(51, 51, 51);
+  color: rgb(255, 255, 255);
+}
+
+.toggleContent:checked ~ .ayat label.button1 {
+  display: none;
+}
+
+.toggleContent:checked ~ .ayat label.button2 {
+  display: inline;
+}
+
+small {
+  padding: 0 0.75em;
+  line-height: 3.0;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.nempel {
+  break-before: avoid;
+}
+
+
+.waveform {
+  visibility: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  --size: 4px;
+
+  /* height: 20px; */
+  height: calc(var(--size) * 5);
+
+  /* gap: 2px; */
+  gap: calc(var(--size) / 2);
+}
+
+.bar {
+  --size: 4px;
+
+  /* height: 4px; */
+  height: var(--size);
+
+  /* width: 4px; */
+  width: var(--size);
+
+  /* border-radius: 4px; */
+  border-radius: var(--size);
+
+  background-color: rgb(51, 51, 51);
+  animation: wave 2s infinite ease-in-out;
+}
+
+@keyframes wave {
+  /* 0%, 100% {
+    height: 4px;
+    background-color: rgb(51, 51, 51);
+  } */
+
+  25% {
+    /* height: 20px; */
+    height: calc(var(--size) * 5);
+
+    background-color: rgb(140, 140, 140);
+  }
+
+  50% {
+    /* height: 4px; */
+    height: var(--size);
+
+    background-color: rgb(230, 230, 230);
+  }
+
+  /* 100% {
+    height: 4px;
+    background-color: rgb(51, 51, 51);
+  } */
+}
+
+/* .waveform :nth-child(1) {
+  animation-delay: 0s;
+} */
+
+.waveform :nth-child(2) {
+  animation-delay: 0.25s;
+}
+
+.waveform :nth-child(3) {
+  animation-delay: 0.5s;
+}
+
+.waveform :nth-child(4) {
+  animation-delay: 0.75s;
+}
+
+.waveform :nth-child(5) {
+  animation-delay: 1s;
+}
