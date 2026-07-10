@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="3.0" unique-identifier="BookId" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier id="BookId">urn:uuid:40a0408a-52e8-4a76-95f8-aaf075cd719f</dc:identifier>
+    <dc:language>en</dc:language>
+    <dc:title>Healing Scriptures</dc:title>
+    <meta property="dcterms:modified">2026-07-10T23:07:02Z</meta>
+    <meta content="2.0.0" name="Sigil version"/>
+    <meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 AA.</meta>
+    <meta property="schema:accessMode">textual</meta>
+    <meta property="schema:accessMode">visual</meta>
+    <meta property="schema:accessModeSufficient">textual</meta>
+    <meta property="schema:accessibilityFeature">structuralNavigation</meta>
+    <meta property="schema:accessibilityHazard">none</meta>
+    <meta property="media:duration" refines="#healing-scriptures_old.smil">00:06:33.740</meta>
+    <meta property="media:duration">00:06:33.740</meta>
+    <meta property="media:narrator">Joseph Prince</meta>
+    <meta property="media:active-class">my-active-item</meta>
+    <meta property="media:playback-active-class">my-document-playing</meta>
+    <meta name="cover" content="healing-scriptures_cover.gif"/>
+  </metadata>
+  <manifest>
+    <item id="healing-scriptures_old.xhtml" href="Text/healing-scriptures_old.xhtml" media-type="application/xhtml+xml" media-overlay="healing-scriptures_old.smil" properties="scripted"/>
+    <item id="sgc-nav.css" href="Styles/sgc-nav.css" media-type="text/css"/>
+    <item id="nav.xhtml" href="Text/nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="healing-scriptures_old.smil" href="Misc/healing-scriptures_old.smil" media-type="application/smil+xml"/>
+    <item id="healing-scriptures.css" href="Styles/healing-scriptures.css" media-type="text/css"/>
+    <item id="healing-scriptures_old.js" href="Misc/healing-scriptures_old.js" media-type="application/javascript"/>
+    <item id="healing-scriptures.mp3" href="Audio/healing-scriptures.mp3" media-type="audio/mpeg"/>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+    <item id="healing-scriptures_cover.gif" href="Images/healing-scriptures_cover.gif" media-type="image/gif" properties="cover-image"/>
+  </manifest>
+  <spine>
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="healing-scriptures_old.xhtml"/>
+    <itemref idref="nav.xhtml" linear="no"/>
+  </spine>
+</package>
